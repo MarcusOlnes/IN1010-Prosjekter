@@ -1,1 +1,1 @@
-<p> Spillet kan opereres i filen Game of Life gjennom terminalen. </p>
+<p> Spillet kan opereres i filen GameOfLife.java gjennom terminalen. </p>
